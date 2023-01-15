@@ -141,6 +141,7 @@ header{
 .features-list-info p{
     font-size: 11px;
     margin-bottom: 25px;
+    color: #727272;
 }
 
 .team-photos{
@@ -179,11 +180,10 @@ header{
     padding: 10px 10px 10px 20px;
     margin-bottom: 15px;
     border-radius: 7px;
-    box-shadow: 1px 1px 5px #727272;
     
 }
 .f-card:hover{
-    box-shadow:  5px 5px 15px #FF900E;   
+    box-shadow:  5px 5px 10px #ffd3a3;   
 }
 
 .arc-img{
